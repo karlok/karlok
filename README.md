@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 - 💬 Ask me about **Why ❤️ Mobile?**
 - 🌱 I’m currently learning **Godot & GDScript, Löve & Lua**
-- 🛫 Check out FlightSense on the [App Store] (https://apps.apple.com/us/app/flightsense/id6736599349)
+- 🛫 Check out FlightSense on the [App Store](https://apps.apple.com/us/app/flightsense/id6736599349)
 ---
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/karlokilayko)
