@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 **iOS Developer | Software Engineering Manager**  
 🎯 Specializing in **Swift, SwiftUI, Objective-C, UIKit, and Mobile Game Development**  
-🛠️ Currently working on **SwiftUI MapKit Template** & exploring **incremental game design**  
+🛠️ Currently exploring **incremental game design**  
 ---
 - 💬 Ask me about **Why ❤️ Mobile?**
 - 🌱 I’m currently learning **Godot & GDScript, Löve & Lua**
