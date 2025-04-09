@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 **iOS Developer | Software Engineering Manager**  
+🚀 **iOS Developer | Game Maker | Software Engineering Manager**  
 🎯 Specializing in **Swift, SwiftUI, Objective-C, UIKit, and Mobile Game Development**  
 🛠️ Currently exploring **incremental game design**  
 ---
