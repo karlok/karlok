@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 **iOS Developer | Game Maker | Software Engineering Manager**  
+🚀 **iOS Developer | Game Maker | Mobile Software Engineering Manager**  
 🎯 Specializing in **Swift, SwiftUI, Objective-C, UIKit, and Mobile Game Development**  
 🛠️ Currently exploring **incremental game design**  
+And! I've started a free email newsletter for indie small-game devs: [Click. Bam! Boom 💥](https://www.clickbamboom.com)
 ---
 - 💬 Ask me about **Why ❤️ Mobile?**
 - 🌱 I’m currently learning **Godot & GDScript, Löve & Lua**
