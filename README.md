@@ -38,6 +38,10 @@ And! I've started a free email newsletter for indie small-game devs: [Click. Bam
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white)
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/karlokilayko)
 - 🏗 [GitHub Projects](https://github.com/karlok)
