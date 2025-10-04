@@ -25,15 +25,18 @@ And! I've started a free email newsletter for indie small-game devs: [Click. Bam
 - 💥 Honestly, I'm going back to my game dev roots with raylib at this point... ask me about it!
 - 🛫 Check out FlightSense on the [App Store](https://apps.apple.com/us/app/flightsense/id6736599349)
 ---
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=yellow)
+<!-- === GAME DEV STACK === -->
+![Raylib](https://img.shields.io/badge/Raylib-FFCC00?style=for-the-badge&logo=raylib&logoColor=000000)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+<!-- === APPLE DEV STACK === -->
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=F0F0F0)
-![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/karlokilayko)
