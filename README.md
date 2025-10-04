@@ -30,9 +30,9 @@ And! I've started a free email newsletter for indie small-game devs: [Click. Bam
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=F0F0F0)
+![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 📫 Connect with Me
