@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 **iOS Developer | Game Maker | Mobile Software Engineering Manager**  
+🚀 **Mobile Software Engineering Manager | Aspiring Indie Game Maker | iOS Developer**  
 🎯 Specializing in **Swift, SwiftUI, Objective-C, UIKit, and Mobile Game Development**  
 🛠️ Currently exploring **incremental game design**  
 And! I've started a free email newsletter for indie small-game devs: [Click. Bam! Boom 💥](https://www.clickbamboom.com)
 ---
 - 💬 Ask me about **Why ❤️ Mobile?**
 - 🌱 I’m currently learning **Godot & GDScript, Löve & Lua**
+- 💥 Honestly, I'm going back to my game dev roots with raylib at this point... ask me about it!
 - 🛫 Check out FlightSense on the [App Store](https://apps.apple.com/us/app/flightsense/id6736599349)
 ---
+![raylib](https://img.shields.io/badge/raylib-green)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white)
