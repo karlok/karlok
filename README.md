@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 🚀 **Mobile Software Engineering Manager | Aspiring Indie Game Maker | iOS Developer**  
-🎯 Mostly **Swift, SwiftUI, Objective-C, UIKit** 
-📲 But been doing **Mobile Game Development** since _way_ before it was hip. T9, anyone? 
+🎯 Mostly **Swift, SwiftUI, Objective-C, UIKit**  
+📲 But been doing **Mobile Game Development** since _way_ before it was hip. T9, anyone?  
 🛠️ Currently exploring **incremental game design**  
-And! I've started a free email newsletter for indie small-game devs who want to join me on this adventure: [Click. Bam! Boom 💥](https://www.clickbamboom.com) 
+And! I've started a free email newsletter for indie small-game devs who want to join me on this adventure: [Click. Bam! Boom 💥](https://www.clickbamboom.com)
 ---
 - 💬 Ask me about **Why ❤️ Mobile?**
 - 🌱 I’m currently learning **Godot & GDScript, Löve & Lua**
