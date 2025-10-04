@@ -25,7 +25,7 @@ And! I've started a free email newsletter for indie small-game devs: [Click. Bam
 - 💥 Honestly, I'm going back to my game dev roots with raylib at this point... ask me about it!
 - 🛫 Check out FlightSense on the [App Store](https://apps.apple.com/us/app/flightsense/id6736599349)
 ---
-![raylib](https://img.shields.io/badge/raylib-green)
+![raylib](https://img.shields.io/badge/raylib?style=for-the-badge&logo=raylib&logoColor=green)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white)
